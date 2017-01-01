@@ -19,3 +19,5 @@ Importante note: I'm not a mathemathician, so I knew I couldn't even start to tr
 proof regarding these situations. On the other hand I have formal CS education and thus understand 
 that dealing with random number generation is far from trivial. Because of this I tried to keep
 myself limited to simpler implementations.
+
+** this is a test for GitHub Desktop.
